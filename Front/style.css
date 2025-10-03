@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url('../Imagens/carro.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1{
+    color: rgb(94, 14, 14);
+}
+
+.results{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+    padding: 20px;
+    border: 2px solid rgb(0, 0, 0);
+    background: linear-gradient(215deg, #ff40409c 0%, #ff40409c 100%);
+}
+
+.card{
+    border: 2px solid rgb(173, 0, 0);
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px;
+    background-color: rgb(46, 0, 0);
+    color: #ffffffff;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 35) 0px 5px 15px;
+    transition: all 200ms linear;
+}
+
+.card:hover{
+    cursor: pointer ;
+    background-color:rgba(131, 15, 15, 0.808);
+    color:#ffffffff;
+    border: 2px solid rgb(245, 245, 245);
+
+}
+
+.card img{
+    width: 200px;
+    height: auto;
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "nome": "Christian von Koenigsegg",
+        "descricao": "Ele é o dono da empresa sueca de automoveis de alta performace  Koenigsegg",
+        "categoria": "CEO",
+        "setor": "CEO",
+        "Imagem": "../Imagens/CEO.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "David Crafoord",
+        "descricao": " Designer que, junto a Christian, criou o conceito e o design do primeiro protótipo",
+        "categoria": "Designer",
+        "setor": " 1 ",
+        "Imagem":"../Imagens/aqueleCaraLa.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Robert Serwanski",
+        "descricao": "O principal corredor de teste e o primeiro que textou um carro da marca",
+        "categoria": "corredor de teste",
+        "setor": " 1 ",
+        "Imagem":"../Imagens/corredor.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Carla Pereira Costa",
+        "descricao": "Ela é designer. Já trabalhou na Victoria Secrets, BMW, e outras empresas",
+        "categoria": "Ilustração do carro",
+        "setor": "Designer",
+        "Imagem":  "../Imagens/carla.png"
+    },
+    {
+        "id": 5,
+        "nome": "Douglas Silva",
+        "descricao":"Ele também é designer. Já trabalhou em outras empresas automobilisticas" ,
+        "categoria": "Motion Graphics",
+        "setor":"Designer",
+        "Imagem":"../Imagens/douglas.png"
+    },
+    {
+        "id": 6,
+        "nome": "Felipe Gomes",
+        "descricao": "Mecanico responsavem por reparos do carro que só podem ser feitos na fabrica",
+        "categoria": "Macanico" ,
+        "setor": "mecanico principal" ,
+        "Imagem":"../Imagens/mecanicoPrincipal.png"
+    },
+    {
+        "id": 7,
+        "nome": "Emily Santos",
+        "descricao": "Mecanica responsavem por reparos do carro que só podem ser feitos na fabrica",
+        "categoria": "Macanico",
+        "setor":"mecanico" ,
+        "Imagem":"../Imagens/muiemecanica.png"
+    },
+    {
+        "id": 8,
+        "nome": "Raissa Almeida",
+        "descricao":"Mecanica responsavem por reparos do carro que só podem ser feitos na fabrica" ,
+        "categoria":"Macanico" ,
+        "setor": "mecanico",
+        "Imagem":"../Imagens/muiemecanica2.png"
+    },
+    {
+        "id": 9,
+        "nome": "Vitór Cardoso",
+        "descricao": "Mecanico responsavem por reparos do carro que só podem ser feitos na fabrica" ,
+        "categoria": "Macanico",
+        "setor": "mecanico" ,
+        "Imagem":"../Imagens/mecanico.png"
+    },
+    {
+        "id": 10,
+        "nome": "Marisa Cavalcanti",
+        "descricao": "Responsavel por escolher quais materias iram ser usados",
+        "categoria": "Designer",
+        "setor": "Design grafico",
+        "Imagem":"../Imagens/marisa.png"
+    },
+    {
+        "id": 11,
+        "nome": "Caio Barbosa" ,
+        "descricao": "Ele também é designer. Já trabalhou em outras empresas automobilisticas",
+        "categoria": "Designer",
+        "setor": "Design grafico",
+        "Imagem":"../Imagens/caio.png"
+    },
+    {
+        "id": 12,
+        "nome": "Joao Cunha",
+        "descricao": "Ele faz parte do setor de montadoras",
+        "categoria": "Fabricação",
+        "setor": "Fabricação",
+        "Imagem":"../Imagens/caioBarbosa.png"
+    },
+    {
+        "id": 13,
+        "nome": "Mariana Goncalves",
+        "descricao": "Ela faz parte do setor de montadoras",
+        "categoria": "Fabricação",
+        "setor": "Fabricação",
+        "Imagem":"../Imagens/mariana.png"
+    },
+    {
+        "id": 14,
+        "nome": "Murilo Cavalcanti",
+        "descricao":"Ele faz parte do setor financeiro e cuida do que entra e sai" ,
+        "categoria": "Financeiro",
+        "setor": "Tesoureiro" ,
+        "Imagem":"../Imagens/murilo.png"
+    },
+    {
+        "id": 15,
+        "nome": "Otávio Santos " ,
+        "descricao": "Ele faz parte do setor financeiro e cuida do que entra e sai",
+        "categoria":"Financeiro" ,
+        "setor": "CFO",
+        "Imagem":"../Imagens/otavio.png"
+    }
+]
